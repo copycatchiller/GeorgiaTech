@@ -1,2 +1,2 @@
 # GeorgiaTech
-Notes
+### Class Notes
