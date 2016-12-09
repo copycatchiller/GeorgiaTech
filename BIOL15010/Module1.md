@@ -11,4 +11,8 @@ To achieve Strong Inference we follow these steps:
 *Dependent Variable* --> factor that changes (or not) as a result of changing the Independent Variable.  
 *Positive Control* --> experiments with *known* outcomes.  
 *Negative Control* --> experiments with *null or no* outcomes.  
+
+
+##What is life?
+
   
